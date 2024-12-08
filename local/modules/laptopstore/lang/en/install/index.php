@@ -1,0 +1,6 @@
+<?php
+$MESS["LAPTOP_STORE_MODULE_NAME"] = "Laptop store";
+$MESS["LAPTOP_STORE_MODULE_DESCRIPTION"] = "Module for laptop store";
+$MESS["LAPTOP_STORE_PARTNER_NAME"] = "Elena Vedernikova";
+$MESS["LAPTOP_STORE_PARTNER_URI"] = "";
+$MESS["LAPTOP_STORE_INSTALL_ERROR_VERSION"] = "Version disabled";

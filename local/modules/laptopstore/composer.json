@@ -1,0 +1,10 @@
+{
+  "name": "modules/laptopstore",
+  "description": "Модуль для работы с ноутбуками.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Bitrix\\LaptopStore\\": "lib/"
+    }
+  }
+}
